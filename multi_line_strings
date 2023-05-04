@@ -1,0 +1,4 @@
+hello_multiline_string = """ 
+By using three quote-marks(""" or ''') instead of one, we tell the program that the string doesn't end until the next triple quote
+We can avoid syntax error by creating multi-line strings.
+"""
